@@ -299,6 +299,8 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
       - Cloud Formation - Infrastructure into Code - document which describes the infrastructure which uses AWS resources.
 
       - Cloud Trail - audit usage of AWS Resources. Important for security exam.
+      
+      - Config - Monitors config of AWS env. Has snapshots, we can go fwd or backward.
 
       - OpsWorks - automate deployments using Chef. Important for sysops exam
 
