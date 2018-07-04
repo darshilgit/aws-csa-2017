@@ -281,16 +281,26 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
   - Security & Identity
 
       - IAM – Important for all AWS exams. How you setup and assign users / groups etc.
+      
+      - Cognito - Device authentication gives temporary acces to AWS for mobile devices.
+      
+      - GuardDuty - Monitors for malicious activities on AWS aacount. 
 
-      - Inspector - Agent which inspects your VMs and does security reporting
+      - Inspector - Agent which inspects your VMs and does security reporting.
+      
+      - Macie - Scan S3 and checks for personal identifiabe info and alerts.
 
       - Certificate Manager – free SSL certs for your domain names.
+      
+      - CloudHSM  - HSM(Hardware Security Module). Store keys or encrypt objects on AWS.
 
-      - Directory Service - (important for architect exam)
+      - Directory Service - (important for architect exam). Integrate your MS active directory services with AWS.
 
-      - WAF - Web Application Firewall. Allows application level protection. Different from traditional network level firewalls. You can inspect headers / content
+      - WAF - Web Application(Layer 7) Firewall. Allows application level protection. Different from traditional network level firewalls. You can inspect headers / content.
+      
+      - Shield - DDoS mitigation. Advanced shield gived 24*7 services against DDos attacks.
 
-      - Artifacts - All Documentation - under compliance and reports.
+      - Artifacts - All Documentation - under compliance and reports. Allows to go in and download PaymentCardIndustry reports, SOC(Service Organization Control) reports.
 
   - Management Tools (important for architect exam)
 
@@ -355,16 +365,23 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
 
       - Device Farm - testing your apps across multitude of devices
 
-      - Mobile Analytics – Collect application usage data in a cost-effective way.
+      - Mobile Analytics – Collect application usage data in a cost-effective way. Analytics service for mobiles.
 
-      - Pinpoint - GA for mobile apps
+      - Pinpoint - GA for mobile apps. Targeted push notifications.
+      
+      - AWS AppSync - Updates data in web and mobile apps and updates for offline use.
+      
 
   - Business Productivity
 
-      - Work Docs – Store work documents on cloud
+      - Work Docs – Store work documents on cloud like DropBox.
 
-      - Work Mail – Exchange on AWS
-
+      - Work Mail – Exchange on AWS.
+      
+      - Alexa for Business - dial to meeting room, etc.
+      
+      - Amazon Chime - Video conferencing.
+      
   - IoT
 
       - IoT Gateway
@@ -389,9 +406,17 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
 
       - SNS – Notify by email / text messages/ http-end points
 
-      - SQS - Post messages to Queue. De-couple your applications.
+      - SQS - Post messages to Queue. De-couple your infrastructure/applications.
 
-      - SES – send email via AWS
+      - SES – send email via AWS. 
+      
+  - Application Integrtion
+  
+      - Step Functions  - Managing Lambda functions and different steps to go through it.
+      
+      - Amazon MQ - message queues.
+      
+      - SWF - Simple WorkFlow.
 
 # Identity & Access Management
 
