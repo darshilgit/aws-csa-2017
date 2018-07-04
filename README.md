@@ -385,6 +385,12 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
   - IoT
 
       - IoT Gateway
+      
+      - IoT Device Management
+      
+      - Amazon FreeRTOS
+      
+      - Greengrass
 
   - Desktop and App Streaming
 
@@ -417,6 +423,10 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
       - Amazon MQ - message queues.
       
       - SWF - Simple WorkFlow.
+      
+  - Game Development
+    
+      - Game Lift
 
 # Identity & Access Management
 
