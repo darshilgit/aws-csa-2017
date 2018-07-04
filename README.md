@@ -303,10 +303,27 @@ The exam is approximately 60 questions in 80 minutes. Pass marks not advertised 
       - Config - Monitors config of AWS env. Has snapshots, we can go fwd or backward.
 
       - OpsWorks - automate deployments using Chef. Important for sysops exam
+      
+      - Service Catalog - Manage a catalog of IT services that are approved for use on AWS. Can be VM image, S/W, DB, Multi-Tier arch.
+      
+      - Systems Manager - Interface for managing AWS resources typically for EC2. Grouping of resources by application or department.
 
       - Config manager - monitors environments and **provides alerts for events**. E.g. someone creates a security group which is against policy
 
       - Trusted Advisor - automated tips for cost & performance optimization, security tips, architecture and design
+      
+      - Managed Services - To not worry about EC2 services and auto - scaling.
+      
+  - Media Services
+  
+      - Media Convert - File based video transcoding.
+      
+      - Media Live - Live video processing.
+      
+      - Media Package - Prepares and protects for delivery on internet.
+      
+      - Media Store - Optimal storage for media.
+      - Media Tailor - Targeted Advertising into video streams without sacrifising broadcast quality.
 
   - Application Services
 
